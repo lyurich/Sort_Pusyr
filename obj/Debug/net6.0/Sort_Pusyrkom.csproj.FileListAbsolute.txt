@@ -1,0 +1,15 @@
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Pusyrkom\bin\Debug\net6.0\Sort_Pusyrkom.exe
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Pusyrkom\bin\Debug\net6.0\Sort_Pusyrkom.deps.json
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Pusyrkom\bin\Debug\net6.0\Sort_Pusyrkom.runtimeconfig.json
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Pusyrkom\bin\Debug\net6.0\Sort_Pusyrkom.dll
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Pusyrkom\bin\Debug\net6.0\Sort_Pusyrkom.pdb
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Pusyrkom\obj\Debug\net6.0\Sort_Pusyrkom.csproj.AssemblyReference.cache
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Pusyrkom\obj\Debug\net6.0\Sort_Pusyrkom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Pusyrkom\obj\Debug\net6.0\Sort_Pusyrkom.AssemblyInfoInputs.cache
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Pusyrkom\obj\Debug\net6.0\Sort_Pusyrkom.AssemblyInfo.cs
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Pusyrkom\obj\Debug\net6.0\Sort_Pusyrkom.csproj.CoreCompileInputs.cache
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Pusyrkom\obj\Debug\net6.0\Sort_Pusyrkom.dll
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Pusyrkom\obj\Debug\net6.0\refint\Sort_Pusyrkom.dll
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Pusyrkom\obj\Debug\net6.0\Sort_Pusyrkom.pdb
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Pusyrkom\obj\Debug\net6.0\Sort_Pusyrkom.genruntimeconfig.cache
+C:\Users\Leonid\Desktop\GigBrains\Prakticum\Sort_Pusyrkom\obj\Debug\net6.0\ref\Sort_Pusyrkom.dll
